@@ -5,7 +5,7 @@ import { Box } from '../components/Box'
 
 export async function getStaticProps() {
   const meta = {
-    title: 'reminder',
+    title: 'puns :)',
     description:
       'lulz',
     tagline: 'From the Random Shack Data Processing Dictionary:',

@@ -6,7 +6,7 @@ import categories from '../data/uses'
 
 export async function getStaticProps() {
   const meta = {
-    title: 'toolbox',
+    title: 'config',
     description:
       "😭 cries in broke 😭",
     tagline: 'hardware // software',
