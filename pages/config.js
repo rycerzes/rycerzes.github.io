@@ -2,13 +2,13 @@ import React from 'react'
 import Head from 'next/head'
 import Base from '../layouts/Base'
 import stripHtml from '../lib/strip-html'
-import categories from '../data/uses'
+import categories from '../data/config'
 
 export async function getStaticProps() {
   const meta = {
     title: 'config',
     description:
-      "😭 cries in broke 😭",
+      "cries in broke T_T",
     tagline: 'hardware // software',
     image: '/static/images/uses-bw.jpg',
     primaryColor: 'pink',
