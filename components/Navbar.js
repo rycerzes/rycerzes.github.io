@@ -12,7 +12,7 @@ export default function Navbar() {
     'blog',
     'projects',
     'config',
-    'puns',
+    'kekw',
   ]
   const [hovered, setHovered] = useState('')
   const { query } = useKBar()

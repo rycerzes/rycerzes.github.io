@@ -5,7 +5,7 @@ export default function Footer() {
   const links = [
     {
       title: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/swaapppyyy',
       icon: 'ri-twitter-line',
     },
     {
@@ -15,7 +15,7 @@ export default function Footer() {
     },
     {
       title: 'linkedin',
-      url: 'https://linkedin.com/in/',
+      url: 'https://linkedin.com/in/swapnildutta1',
       icon: 'ri-linkedin-line',
     },
     {
