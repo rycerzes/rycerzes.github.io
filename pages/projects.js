@@ -64,7 +64,7 @@ function Projects(props) {
   }
 
   const { title, image } = props
-  const description = `obsessed with ricing & open-source`
+  const description = `ricing, open-source projects and more`
   return (
     <>
       <Head>

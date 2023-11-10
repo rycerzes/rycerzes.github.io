@@ -70,12 +70,6 @@ const categories = [
         url: 'https://www.microsoft.com/en-in/windows/windows-11',
       },
       {
-        title: 'Ubuntu 20.04',
-        description:
-          'Using it as my OS for Windows Subsystem for Linux',
-        url: 'https://ubuntu.com/',
-      },
-      {
         title: 'Arch Linux',
         description:
           'The OS I keep on my disk for dual booting. Used for hobbyist pursuits.',

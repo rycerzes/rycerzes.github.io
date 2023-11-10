@@ -10,7 +10,7 @@ export async function getStaticProps() {
   return {
     props: {
       title: 'swappy',
-      description: 'obsesses over anime & manga',
+      description: 'learning about ML, algorithms and anime',
       image: '/static/images/home-bw.jpg',
       primaryColor: 'red',
       secondaryColor: 'pink',
@@ -39,7 +39,7 @@ export default function Index(props) {
             <div>
               <h1>{title}</h1>
               <p>
-                <strong>algorithm admirer // graphic designer
+                <strong>CSE Undergrad @ KIIT University
                 </strong><br />
                 {description}
               </p>

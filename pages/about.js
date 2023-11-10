@@ -18,7 +18,7 @@ export async function getStaticProps() {
     title: 'about',
     description:
       "swappy description",
-    tagline: 'kill signals when compile',
+    tagline: 'kill signals: compile;',
     primaryColor: 'pink',
     secondaryColor: 'purple',
   }
@@ -55,13 +55,15 @@ function About(props) {
               '@bp2': { marginTop: '-6px' },
             }}
           >
-            <strong>swappy here.</strong><Paragraph><Paragraph/>
+            <strong>swappy here!</strong><Paragraph><Paragraph/>
             </Paragraph>
-            <strong>I love dark mode</strong>, open source, and side projects.
-            I like watching anime, reading manga and{' '}
-            <strong>eating good food.{':)'}</strong>
+            I spend my time learning about <strong>machine learning and its models, algorithms</strong>. Obsessed with gaming and{' '}
+            eating good food {';)'}
             </Paragraph>
-             <Paragraph><em>Oh, and I also to like to draw stuff {':)'}</em></Paragraph>
+            <Paragraph>
+              Also interested in <strong>cybersecurity & computer netowrking</strong>.
+            </Paragraph>
+             <Paragraph><em>Oh, and I also like to create digital art {':)'}</em></Paragraph>
           
         </Section>
       </Container>

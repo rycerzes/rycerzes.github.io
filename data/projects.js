@@ -8,7 +8,7 @@ const items = [
         url: 'https://github.com/rycerzes/website',
         active: true,
         icon: 'web',
-        stats: 'ongoing',
+        stats: 'complete',
       },
       {
         title: 'dotfiles',
@@ -16,7 +16,7 @@ const items = [
         url: 'https://github.com/rycerzes/dotfiles',
         active: false,
         icon: 'dotfiles',
-        stats: 'unfinished',
+        stats: 'Not started',
       },
     ],
   },
