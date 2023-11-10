@@ -3,7 +3,7 @@ title: lorem-ipsum
 description: "lorem ipsum"
 image: /static/img/blog/lorem.jpg
 slug: lorem 
-date: "2023-03-04"
+date: "2022-10-04"
 ---
 
 ## Lorem Ipsum
